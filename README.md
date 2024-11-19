@@ -5,7 +5,7 @@ Fall 2024<br>
 **Sec:** 05<br>
 
 **Group:** D<br>
-**Course Instructor**:  Dr. Mohammad Rifat Ahmmad Rashid (Associate Professor, CSE)
+**Course Instructor**:  Dr. Mohammad Rifat Ahmmad Rashid (Associate Professor, CSE, East West University)
 
 ## Contributors
 | Name                                 | Student ID            | 
