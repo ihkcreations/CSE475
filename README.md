@@ -11,6 +11,6 @@ Fall 2024<br>
 | Name                                 | Student ID            | 
 | ------------------                   | ----------            |
 | Arun Jyoti Mondal                    | 2020-3-60-064         |
-| Md. Iftekhar Hossain Khan            | 2020-3-60-003         |
+| Md. Iftekhar Hossain Khan            | 2020-3-60-073         |
 | Nourin Nahar Hridy                   | 2021-1-60-102         |
 | Syeda Raisha Abedin Ohona            | 2019-1-60-141         |
